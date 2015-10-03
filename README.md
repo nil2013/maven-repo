@@ -8,7 +8,7 @@
 resolvers += "My Repository on Github" at "http://nil2013.github.io/maven-repo/"
 ```
 
-## Containing libraries
+## Contains following
 
 * [nil2013/LIlib](https://github.com/nil2013/LIlib)
-
+    * [jar Files](/lilib/)
