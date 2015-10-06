@@ -4,7 +4,7 @@
 
 ## for SBT
 
-```
+```scala
 resolvers += "My Repository on Github" at "http://nil2013.github.io/maven-repo/"
 ```
 
