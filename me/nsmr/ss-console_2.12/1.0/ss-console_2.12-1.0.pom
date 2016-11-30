@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>me.nsmr</groupId>
+    <artifactId>ss-console_2.12</artifactId>
+    <packaging>jar</packaging>
+    <description>ss-console</description>
+    <version>1.0</version>
+    <name>ss-console</name>
+    <organization>
+        <name>me.nsmr</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.12.0</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>snapshots</id>
+            <name>snapshots</name>
+            <url>http://oss.sonatype.org/content/repositories/snapshots/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
+            <id>releases</id>
+            <name>releases</name>
+            <url>http://oss.sonatype.org/content/repositories/releases/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
