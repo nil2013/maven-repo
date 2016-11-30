@@ -12,3 +12,4 @@ resolvers += "My Repository on Github" at "http://nil2013.github.io/maven-repo/"
 
 * [nil2013/LIlib](https://github.com/nil2013/LIlib)
     * [jar Files](/lilib/)
+* [nil2013/Scala-SimpleConsole](https://github.com/nil2013/Scala-SimpleConsole)
